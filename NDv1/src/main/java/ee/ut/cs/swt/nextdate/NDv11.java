@@ -1,8 +1,8 @@
 package ee.ut.cs.swt.nextdate;
 
-public class NextDate {
+public class NDv11 {
 
-    public NextDate(int m, int d, int y) {
+    public NDv11(int m, int d, int y) {
         //int month, day, year; //varibles holding the month, day and year args
         //Initialize the mont, day, and year, respectively
         //month = m;
